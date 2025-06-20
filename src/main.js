@@ -1,3 +1,5 @@
+import * as THREE from 'three';
+
 // 建立场景
 const scene = new THREE.Scene();
 // 创建BoxGeometry（立方体）对象
